@@ -1,0 +1,16 @@
+@import "global.css";
+#midSection{
+    background-color: gray;
+    margin-top: -21px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+h1,h2{
+    color: burlywood;
+}
+p{
+    font-size: large;
+    font-weight: bold;
+    color: burlywood;
+}
