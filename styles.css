@@ -1,0 +1,14 @@
+@import "global.css";
+p{
+    padding-left: 300px;
+    padding-right: 300px;
+    color: wheat;
+}
+article{
+    margin-top: -20px;
+    margin-bottom: 30px;
+    color: burlywood;
+    background-color: grey;
+    font-weight: bold;
+    padding-top: 10px;
+}

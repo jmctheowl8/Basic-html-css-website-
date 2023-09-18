@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    text-align: center;  
+}
+#target{
+    background-color: black;
+    opacity: 0.9;
+}
+nav{
+    color: burlywood;
+    margin-top: -24px;
+    height: 400px;
+    background-color: aqua;
+    background-image: url(./Images/Hero_image/chinese-new-year-lantern-festival-celebration.avif);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    font-size: large;
+    font-weight: bolder;
+    overflow: auto;
+}
+
+a{
+  padding: 40px;  
+  color: burlywood;
+  font-style: italic;
+  font-size: large;
+  text-decoration: none;
+}
+a:hover{
+    color: azure;
+}
+footer{
+    background-color: black;
+    color: burlywood;
+}

@@ -1,0 +1,14 @@
+@import "global.css";
+.wrap{
+    background-color: gray;
+    margin-top: -21px;
+}
+.menu{
+    display: grid;
+    grid-template-columns: auto;
+
+}
+img{
+    max-width: 50%;  
+    height: 50%;  
+}
